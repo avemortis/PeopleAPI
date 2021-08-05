@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/sign_in"
+        android:id="@+id/sign_in_item"/>
+    <item android:title="@string/sign_out"
+        android:id="@+id/sign_out_item"/>
+    <item android:title="@string/revoke"
+        android:id="@+id/info_item"/>
+</menu>

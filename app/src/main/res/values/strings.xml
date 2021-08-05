@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Google People API</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="info">Info</string>
+    <string name="revoke">Revoke Access</string>
+
+    <string name="delete">Delete Contact</string>
+
+    <string name="contact">Contact</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="contact_info">Contact Info:</string>
+    <string name="contact_title">Google Contact</string>
+    <string name="phone_numbers">Phone numbers</string>
+    <string name="email_addresses">Email addresses</string>
+
+    <string name="add_contact">Add New Contact</string>
+    <string name="contact_name_error">Name cannot be empty</string>
+
+    <string name="GOOGLE_CLIENT_ID">915918266172-4ha105fjj22rsnfkde3av8mhugoj2l3p.apps.googleusercontent.com</string>
+    <string name="GOOGLE_CLIENT_SECRET">5gPFb6tj7U0rNKlswamNzaAO</string>
+</resources>
